@@ -1,0 +1,33 @@
+sw1:
+  hostname: 192.168.194.201
+  groups:
+      - common_roup
+  data:
+    tags:
+      - ios
+  connection_options:
+    netmiko:
+        extras:
+          device_type: 'cisco_ios_ssh'
+sw2:
+  hostname: 192.168.194.202
+  groups:
+      - common_roup
+  data:
+    tags:
+      - ios
+  connection_options:
+    netmiko:
+        extras:
+          device_type: 'cisco_ios_ssh'
+sw3:
+  hostname: 192.168.194.203
+  groups:
+      - common_roup
+  data:
+    tags:
+      - ios
+  connection_options:
+    netmiko:
+        extras:
+          device_type: 'cisco_ios_ssh'

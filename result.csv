@@ -1,0 +1,17 @@
+device,vlan,port,mac
+sw1,1,0050.56c0.0008,0050.56c0.0008
+sw1,1,aabb.cc00.5000,aabb.cc00.5000
+sw1,1,aabb.cc00.8000,aabb.cc00.8000
+sw1,1,aabb.cc80.5000,aabb.cc80.5000
+sw1,1,aabb.cc80.6000,aabb.cc80.6000
+sw2,1,0050.56c0.0008,0050.56c0.0008
+sw2,1,aabb.cc00.4020,aabb.cc00.4020
+sw2,1,aabb.cc00.8000,aabb.cc00.8000
+sw2,1,aabb.cc80.4000,aabb.cc80.4000
+sw3,1,0050.56c0.0008,0050.56c0.0008
+sw3,1,aabb.cc00.4010,aabb.cc00.4010
+sw3,1,aabb.cc00.5000,aabb.cc00.5000
+sw3,1,aabb.cc00.7000,aabb.cc00.7000
+sw3,1,aabb.cc00.8000,aabb.cc00.8000
+sw3,1,aabb.cc80.4000,aabb.cc80.4000
+sw3,1,aabb.cc80.5000,aabb.cc80.5000

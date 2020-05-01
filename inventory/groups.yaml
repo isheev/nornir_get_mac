@@ -1,0 +1,4 @@
+common_roup:
+  platform: 'cisco_ios'
+  username: 'cisco'
+  password: 'cisco'
